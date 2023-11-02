@@ -1,0 +1,47 @@
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\DAO\obj\Debug\net6.0\ref\DAO.dll

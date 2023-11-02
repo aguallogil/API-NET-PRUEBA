@@ -1,0 +1,256 @@
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.exe
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.deps.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.runtimeconfig.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfo.cs
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.PruebaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.build.PruebaAPI.props
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PruebaAPI.props
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PruebaAPI.props
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\scopedcss\bundle\PruebaAPI.styles.css
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CopyComplete
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\refint\PruebaAPI.dll
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.genruntimeconfig.cache
+C:\Users\Shakaloscar\Documents\Proyectos\API_Articulos\API_Articulos\obj\Debug\net6.0\ref\PruebaAPI.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.exe
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.deps.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.runtimeconfig.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.AssemblyReference.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfoInputs.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfo.cs
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CoreCompileInputs.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.PruebaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.build.PruebaAPI.props
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PruebaAPI.props
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PruebaAPI.props
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\scopedcss\bundle\PruebaAPI.styles.css
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CopyComplete
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\refint\PruebaAPI.dll
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.pdb
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.genruntimeconfig.cache
+C:\Users\MN002\Desktop\Double V\API_Articulos\API_Articulos\obj\Debug\net6.0\ref\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.exe
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.deps.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.runtimeconfig.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.PruebaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.build.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\scopedcss\bundle\PruebaAPI.styles.css
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CopyComplete
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\refint\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.genruntimeconfig.cache
+C:\Users\Shakaloscar\Desktop\Versionados\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\ref\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\appsettings.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.exe
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.deps.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.runtimeconfig.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\BLL.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAL.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\bin\Debug\net6.0\DAO.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.AssemblyReference.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfoInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.AssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.PruebaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.build.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PruebaAPI.props
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\scopedcss\bundle\PruebaAPI.styles.css
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.csproj.CopyComplete
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\refint\PruebaAPI.dll
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.pdb
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\PruebaAPI.genruntimeconfig.cache
+C:\Users\Shakaloscar\Desktop\Versionados - Copy\Double V - copia\API_Articulos\API_Articulos\obj\Debug\net6.0\ref\PruebaAPI.dll
